@@ -1,2 +1,2 @@
 # aircanvas-hand-drawing
-Real-time virtual drawing app using hand gestures with MediaPipe and OpenCV in Python.
+Interactive air drawing application with real-time finger tracking using Python, OpenCV, and MediaPipe.
